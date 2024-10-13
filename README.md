@@ -28,16 +28,16 @@ O projeto é composto pelos seguintes arquivos principais:
    cd GerenciamentoDeLivros
 
 3. **Abra o Projeto:**
-- Abra o arquivo .sln no Visual Studio.
+   - Abra o arquivo .sln no Visual Studio.
 
 4. **Compile e Execute:**
-- Compile o projeto e inicie a execução no Visual Studio.
+   - Compile o projeto e inicie a execução no Visual Studio.
 
 5. **Interaja com o Sistema:**
-- Clique no botão "Mostrar Livro" para exibir os livros cadastrados em uma tabela.
+   - Clique no botão "Mostrar Livro" para exibir os livros cadastrados em uma tabela.
 
 ## Exemplo de Uso
-- Após a execução do aplicativo, você verá um formulário simples onde pode clicar no botão "Mostrar Livro". Uma tabela será exibida com as informações dos livros e seus autores.
+   - Após a execução do aplicativo, você verá um formulário simples onde pode clicar no botão "Mostrar Livro". Uma tabela será exibida com as informações dos livros e seus autores.
 
 
 | **Autor**         | **Título**                           | **Nacionalidade**  |
