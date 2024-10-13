@@ -39,12 +39,13 @@ O projeto é composto pelos seguintes arquivos principais:
 ## Exemplo de Uso
 - Após a execução do aplicativo, você verá um formulário simples onde pode clicar no botão "Mostrar Livro". Uma tabela será exibida com as informações dos livros e seus autores.
 
-```bash
-Autor	Título	Nacionalidade
-J.K. Rowling	Harry Potter e a Pedra Filosofal	Reino Unido
-George R.R. Martin	A Guerra dos Tronos	EUA
-J.R.R. Tolkien	O Senhor dos Anéis	Reino Unido
-```
+
+| **Autor**         | **Título**                           | **Nacionalidade**  |
+|--------------------|--------------------------------------|---------------------|
+| J.K. Rowling       | Harry Potter e a Pedra Filosofal    | Reino Unido         |
+| George R.R. Martin | A Guerra dos Tronos                  | EUA                 |
+| J.R.R. Tolkien     | O Senhor dos Anéis                   | Reino Unido         |
+
 
 ## Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
