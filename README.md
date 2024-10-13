@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Livros
+# 📚 Sistema de Gerenciamento de Livros
 
 Este projeto é um sistema simples de gerenciamento de livros desenvolvido em C# utilizando o Windows Forms (.NET Framework). O sistema permite o cadastro e exibição de informações sobre livros e seus autores.
 
@@ -48,7 +48,7 @@ O projeto é composto pelos seguintes arquivos principais:
 
 
 ## Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a MIT License
 
 ## Contato
 Se precisar de mais alguma coisa ou de ajustes, sinta-se à vontade para me contatar!
